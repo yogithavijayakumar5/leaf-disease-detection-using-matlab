@@ -1,2 +1,8 @@
-# leaf-disease-detection-using-matlab
-MATLAB image processing to detect and estimate citrus leaf disease severity
+## Sample Output
+
+
+![Detected Diseased Regions](disease_mask.png)
+
+
+
+Example result: The leaf is DISEASED — Diseased area: 13.98%
